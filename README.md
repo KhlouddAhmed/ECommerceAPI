@@ -1,4 +1,4 @@
-#  ECommerce & Inventory Management System
+# 🛒 ECommerce & Inventory Management System
 
 A full-stack E-Commerce and Inventory Management System built with **ASP.NET Core 8 Web API** and **Angular 22**. Features role-based access control, JWT authentication, product management, order processing, and real-time inventory tracking — built with Clean N-Tier Architecture.
 
